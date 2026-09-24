@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Antrobus, Wen, Rubio-y-Degrassi
+    given-names: Matthew, Can, Lleonard
+title: "The first Hochschild Cohomology of Groups"
+version: 1.0
+date-released: 2026-9-24
