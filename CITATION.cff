@@ -1,8 +1,14 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+title: The Hochschild Cohomology of Group Algebras
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
 authors:
-  - family-names: Antrobus, Wen, Rubio-y-Degrassi
-    given-names: Matthew, Can, Lleonard
-title: "The first Hochschild Cohomology of Groups"
-version: 1.0
-date-released: 2026-9-24
+  - given-names: Lleonard
+    family-names: Rubio-y-Degrassi
+  - given-names: Can
+    family-names: Wen
+  - given-names: Matthew
+    family-names: Antrobus
+repository-code: 'https://github.com/MattJAntrobus/HH1OfSimpleGroups'
